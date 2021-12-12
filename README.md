@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/779edffa-1670-4f89-9e54-f10dd1778329/deploy-status)](https://app.netlify.com/sites/sanity-kitchen-sink-web-2hf2cm6g/deploys)
+
 # The Kitchen Sink Studio
 
 A “[kitchen sink](https://stackoverflow.com/questions/33779296/what-is-exact-meaning-of-kitchen-sink-in-programming)” is a showcase of APIs and functionality. This is the example project that we at Sanity HQ use for demos. Hence, it will change and evolve over time with new feature releases.
